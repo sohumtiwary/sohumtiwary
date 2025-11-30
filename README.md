@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sohum 👋
+I'm an Embedded Systems and Firmware engineer interested in real-time control, robotics, MCU drivers, and hardware-software integration. I am a senior at San José State University, majoring in Computer Engineering.
 
-<!--
-**sohumtiwary/sohumtiwary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Focus Areas
+- Embedded C (STM32, RP2040)
+- Real-Time Systems, FreeRTOS
+- I2C / SPI / UART drivers
+- Verilog, RISC-V, digital design
+- Robotics, controls, PID
 
-Here are some ideas to get you started:
+### Currently Building
+- STM32 sensor hub firmware
+- 5-stage RISC-V CPU
+- Robotic arm control system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Previous Experiences
+- Controls Engineering Intern @ SLAC
+- Software Developer Intern @ LLNL
+- Data Engineering Intern @ Sephora
